@@ -1,7 +1,4 @@
-# GameDevTugas1
-Tugas pertama gamedev
-
-### Github Workflow
+# Github Workflow
 -. Fork the repository for the exercise/project.
     
 -. Clone the repository to your computer.
