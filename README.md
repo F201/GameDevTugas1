@@ -1,9 +1,9 @@
 # Github Workflow
--. Fork the repository for the exercise/project.
+-. Fork the project repository to your github account.
     
 -. Clone the repository to your computer.
     
--. Open the README.md files to read the instructions
+-. Open the README.md files to read the manual and instruction.
     
 -. Make sure all of your code is committed.
     
